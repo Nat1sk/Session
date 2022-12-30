@@ -1,0 +1,19 @@
+{
+    "Display1": {
+        "Fact": "my name is Tore",
+        "Kartinka": "./images/face1.jpg"
+    },
+    "Display2": {
+        "Fact": "I am 20 years old",
+        "Kartinka": "./images/face3.jpg"
+    },
+    "Display3": {
+        "Fact": "my height is 177cm",
+        "Kartinka": "./images/face4.jpg"
+    },
+
+    "Display4": {
+        "Fact": "I work as an actor in theatre",
+        "Kartinka": "./images/face2.jpg"
+    }
+}

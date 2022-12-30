@@ -1,0 +1,32 @@
+{
+    "Rabota1": {
+        "Name": "First homewok",
+        "Descriprion": "Page about myself",
+        "Screen": "images/1.jpg",
+        "Link": "https://github.com/Nat1sk/DOM1.2"
+    },
+    "Rabota2": {
+        "Name": "Second homewok",
+        "Descriprion": "Anime blocks",
+        "Screen": "images/2.jpg",
+        "Link": "https://github.com/Nat1sk/DOM-1.3"
+    },
+    "Rabota3": {
+        "Name": "Some homework",
+        "Descriprion": "Some calculator",
+        "Screen": "images/3.jpg",
+        "Link": "https://github.com/Nat1sk/DOM2"
+    },
+    "Rabota4": {
+        "Name": "Prelast homework",
+        "Descriprion": "To do list",
+        "Screen": "images/4.jpg",
+        "Link": "https://github.com/Nat1sk/DOM4"
+    },
+    "Rabota5": {
+        "Name": "Second mid control",
+        "Descriprion": "Page about myself",
+        "Screen": "images/5.jpg",
+        "Link": "https://github.com/Nat1sk/WEB_rk2"
+    }
+}
